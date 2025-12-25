@@ -77,9 +77,6 @@ Log-based anomaly detection · Network attack prediction
 - 🛡️ **AI-SOC-Detection**  
   AI-based intrusion detection & future attack prediction  
 
-- 🔍 **Threat-Hunter-Toolkit**  
-  Scripts & workflows for proactive threat hunting  
-
 - 📊 **SIEM-Log-Analytics**  
   Log parsing, correlation rules & dashboards  
 
@@ -111,7 +108,7 @@ I believe **future cyber defense is predictive, not reactive**.
 ## 🤝 Let’s Collaborate
 
 ✔ SOC & Detection Engineering  
-✔ Threat Intelligence Research  
+✔ VAPT Testing 
 ✔ AI for Cyber Security  
 ✔ Open-source Security Tools  
 
